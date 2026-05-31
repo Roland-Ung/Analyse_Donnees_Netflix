@@ -35,7 +35,7 @@ Le projet inclut plusieurs analyses exploratoires :
 - Nombre total de saisons de toutes les séries produites par pays
 - Evolution de la durée moyenne des films et du nombre moyens de saisons des séries
 
-## 📊 Insight Clés
+## 📊 Insights Clés
 - Les films représentent la grande majorité du catalogue global (presque les 3 quarts) face aux séries (environ 30%).
 - On observe une baisse régulière de la durée moyenne des films, passant de 111 minutes en 2000 à 80 minutes en 2021.
 - Pour les séries, après une forte instabilité au début des années 2000, le nombre moyen de saisons s'est complètement stabilisé (autour de 1,5 saisons)

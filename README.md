@@ -16,3 +16,23 @@ L'objectif principal de ce projet est de mener une analyse de données de bout e
 ### 2 - Importation et Nettoyage des données
 ### 3 - Compréhension globale du fichier
 ### 4 - Analyse des données
+
+## 📈 Dataset
+Les variables utilisés pour l'analyse des données sont :
+- `type` : Films ou Séries
+- `country` : Dans quel(s) pays cela a été tourné
+- `release_year` : A partir de quelle année le film ou la série a été diffusée
+- `duration` : durée d'un film (en minutes) ou nombre de saisons d'une série
+
+## 🌍 Principales analyses réalisés
+Le projet inclut plusieurs analyses exploratoires :
+- Nombre de films et séries
+- Evolution du nombre de films et séries au fil du temps
+- Top 5 des pays avec le plus grand nombre de films et de séries
+- Durée moyenne des films par pays
+- Durée total de tous les films produits par pays
+- Nombre moyen de saisons des séries par pays
+- Nombre total de saisons de toutes les séries produites par pays
+- Evolution de la durée moyenne des films et du nombre moyens de saisons des séries
+
+## 📊 Insight Clés

@@ -39,7 +39,9 @@ Le projet inclut plusieurs analyses exploratoires :
 - Les films représentent la grande majorité du catalogue global (presque les 3 quarts) face aux séries (environ 30%).
 - On observe une baisse régulière de la durée moyenne des films, passant de 111 minutes en 2000 à 80 minutes en 2021.
 - Pour les séries, après une forte instabilité au début des années 2000, le nombre moyen de saisons s'est complètement stabilisé (autour de 1,5 saisons)
-- Les États-Unis écrasent totalement le reste du monde sur la production de films et séries, suivis par l'Inde qui est deuxième, mais uniquement sur les films.
+- Les États-Unis dominent totalement le reste du monde sur la production de films et séries, suivis par l'Inde qui est deuxième, mais uniquement sur les films.
 - Le Japon et la Corée du Sud se distinguent par un profil inversé : ils produisent plus de séries (Animes et K-Dramas) que de films.
-- Le volume de films et de séries a explosé de manière exponentielle entre 2014 et 2018, avant de connaître une chute brutale autour de 2020
+- Le volume de films et de séries a augmenté de manière exponentielle entre 2014 et 2018, avant de connaître une chute brutale autour de 2020
 - En 2020, alors que la production de films s'effondre déjà, les séries continuent d'augmenter et finissent par dépasser les films pour la première fois
+
+## 📁 Structure du projet

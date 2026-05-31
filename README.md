@@ -45,3 +45,14 @@ Le projet inclut plusieurs analyses exploratoires :
 - En 2020, alors que la production de films s'effondre déjà, les séries continuent d'augmenter et finissent par dépasser les films pour la première fois
 
 ## 📁 Structure du projet
+```
+Analyse_Donnees_Netflix/
+│
+├── Graphiques/
+│   ├── EvolutionDureeMoy-NbrMoySaison.png      Evolution de la durée moyenne des films et du nombre moyens de saisons des séries
+│   ├── EvolutionsNbrFilmsSeries.png            Evolution du nombre de films et séries au fil du temps
+│   ├── NbrFilmsSeries.png                      Repartition des productions par type de contenu
+│   ├── Top5Pays.png                            Top 5 des pays avec le plus grand nombre de films et de séries
+├── analyse_NetflixData.ipynb                   Notebook Jupyter
+└── README.md
+```

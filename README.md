@@ -46,6 +46,7 @@ Le projet inclut plusieurs analyses exploratoires :
 
 ## Prérequis
 - Python
+- Jupyter Notebook
 
 ## Installation
 1. Cloner le dépôt

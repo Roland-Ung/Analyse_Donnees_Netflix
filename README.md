@@ -7,8 +7,12 @@ L'objectif principal de ce projet est de mener une analyse de données de bout e
 - **Visualisation de données** : Concevoir des graphiques clairs et pertinents avec Matplotlib et Seaborn, notamment la création de graphiques complexes à double axe Y (`twinx()`).
 - **Interprétation analytique** : Traduire des courbes et des tableaux de données brutes en conclusions logiques sur les choix de production de la plateforme.
 
+## 🛠️ Technologies utilisées
+- Python
+- Bibliothèques : Pandas, Numpy, Matplotlib, Seaborn
+
 ## 📖 Plan du Notebook Jupyter
-- 1) Importation des bibliothèques
-  2) Importation et Nettoyage des données
-  3) Compréhension globale du fichier
-  4) Analyse des données
+### 1 - Importation des bibliothèques
+### 2 - Importation et Nettoyage des données
+### 3 - Compréhension globale du fichier
+### 4 - Analyse des données

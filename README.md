@@ -44,6 +44,26 @@ Le projet inclut plusieurs analyses exploratoires :
 - Le volume de films et de séries a augmenté de manière exponentielle entre 2014 et 2018, avant de connaître une chute brutale autour de 2020
 - En 2020, alors que la production de films s'effondre déjà, les séries continuent d'augmenter et finissent par dépasser les films pour la première fois
 
+## Prérequis
+- Python
+
+## Installation
+1. Cloner le dépôt
+```bash
+git clone https://github.com/Roland-Ung/Analyse_Donnees_Netflix.git
+cd Analyse_Donnees_Netflix
+```
+
+2. Installer les librairies requises
+```bash
+pip install pandas matplotlib seaborn notebook
+```
+
+3. Lancer Jupyter depuis votre terminal
+```bash
+jupyter notebook
+```
+
 ## 📁 Structure du projet
 ```
 Analyse_Donnees_Netflix/

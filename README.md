@@ -9,7 +9,7 @@ L'objectif principal de ce projet est de mener une analyse de données de bout e
 
 ## 🛠️ Technologies utilisées
 - Python
-- Bibliothèques : Pandas, Numpy, Matplotlib, Seaborn
+- Bibliothèques : Pandas, Matplotlib, Seaborn
 
 ## 📖 Plan du Notebook Jupyter
 ### 1 - Importation des bibliothèques
